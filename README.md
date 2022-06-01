@@ -22,7 +22,7 @@ pip install sounddevice
     git clone git@github.com:Purdue-ECE438-Labs/lab01-<github_username>.git  # using SSH
     ```
 
-2. Lab 02 instructions can be found in [`lab01_instructions.pdf`](lab01_instructions.pdf).
+2. Lab 01 instructions can be found in [`lab01_instructions.pdf`](lab01_instructions.pdf).
 
 3. Complete the Jupyter notebook [`lab01_report.ipynb`](lab01_report.ipynb). This is the only file that needs to be edited and graded.
    1. To open this file, type `jupyter-notebook` in your terminal.
