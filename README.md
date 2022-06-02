@@ -14,12 +14,13 @@ How then do we process continuous-time signals? In this lab, we will show that c
     git clone git@github.com:Purdue-ECE438-Labs/lab01-<github_username>.git  # using SSH
     ```
 
-2. Lab 01 instructions can be found in [`lab01_instructions.pdf`](lab01_instructions.pdf).
+2. Lab instructions can be found in [`lab01_instructions.pdf`](lab01_instructions.pdf).
 
-3. Complete the Jupyter notebook [`lab01_report.ipynb`](lab01_report.ipynb). This is the only file that needs to be edited and graded.
-   1. To open this file, type `jupyter-notebook` in your terminal.
+3. Open a new Terminal, run the command `jupyter notebook` and open `lab01_individual_report.ipynb`.
 
-   2. Select `lab01_report.ipynb` in the browser.
+4. Complete the individual lab report `lab01_individual_report.ipynb`.
+
+5. If you are in a group of more than 1, work with your group member(s) to complete the final lab report `lab01_final_report.ipynb`.
 
 ## Submission
 
