@@ -6,13 +6,7 @@ How then do we process continuous-time signals? In this lab, we will show that c
 
 ## Getting Started
 
-1. Clone the repository by running the command
-
-    ```bash
-    git clone https://github.com/Purdue-ECE438-Labs/lab01-<github_username>.git  # using web URL
-    # or
-    git clone git@github.com:Purdue-ECE438-Labs/lab01-<github_username>.git  # using SSH
-    ```
+1. Git clone the repository.
 
 2. Lab instructions can be found in [`lab01_instructions.pdf`](lab01_instructions.pdf).
 
